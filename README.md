@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **FullStack Web Development**
 
-- 👨‍💻 All of my projects are available at [arjunmaurya.me](arjunmaurya.me)
+- 👨‍💻 All of my projects are available at [arjunmaurya.me](https://www.arjunmaurya.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
