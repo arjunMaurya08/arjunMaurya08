@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Arjun](https://github.com/user-attachments/assets/5c8db969-fd74-460e-b906-c3b094dc282b)
 <!--
 **arjunMaurya08/arjunMaurya08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
